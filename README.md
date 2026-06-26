@@ -1,33 +1,22 @@
 # Introduction to Computing - Code Revision
-Hey! This is my collection of code snippets (and some more practice questions solutions) from Joyner's 'Introduction to Computing' textbook that I use for quick revision during problem sets and exams. I also provide my solutions to the extra practice problems which have no sample answers provided in the course.
+This is my collection of code snippets (and some more practice questions solutions) from Joyner's 'Introduction to Computing' textbook that I use for quick revision during problem sets and exams. I also provide my solutions to the extra practice problems which have no sample answers provided in the course.
 
-## What's This For?
-Mainly for current and past students of this course. I've organised the textbook's code examples by chapters and added my own comments to help with quick reviews. Think of it as a quick reference guide when you're coding along.
-
-## What's Inside
-- Code snippets from the textbook (actual code, not just pictures)
-- My personal notes and comments (take them with a grain of salt - they're mainly for my understanding)
-- Everything organised by chapters, just like in the course
-- Practice exam stuff coming soon (but no problem set / real exam solutions - that's part of the learning journey!)
-
-## Why I Made This
-- It makes revision easier
-- It helps to see how different topics connect by quickly switching between different parts of the course
-- It keeps everything organised and easy to find
-- Since the work's already there, why not share it and make others' lives easier too?
+I'm hoping this can help current and past students of this course. I've organised the textbook's code examples by chapters and added my own comments to help with quick reviews.
+The pain point while I was taking this course was that having to constantly scroll and search for relevant session in the textbook, and you can't copy the snippet from the textbook because they're images. So I did the grunt work and typed out all the snippets, so others can copy the codes, and cutting the time to type out trival codes such as testing / variables.
+I also think this keeps everything organised and easy to find, and helps to see how different topics connect by quickly switching between different parts of the course
 
 ## Note
-- I'm probably not sharing the post-chapter problem set solutions, as they're graded and we can only improve by struggling through them ourselves
-- I'll add practice exam solutions later
-- Nothing beats going through every single question yourself
-- While AI is useful, I strongly advise against using it to get solutions, please try to build every solution by yourself. If you struggle, that's a sign you're growing!
-- It doesn't mean you can't use AI, but use it for unstuck yourself for clearning concepts along the way.
+- I'm not sharing the post-chapter problem set solutions, as they're graded and we can only improve by struggling through them ourselves. I'll add practice exam solutions though.
+
+## The Use of AI as a learning partner
+
+I strongly advise against using it to get solutions otherwise what's the point of taking the course? We need to struggle to learn,
+
+However, I also strongly recommend using AI for when you stumble on unclear explanation of materials as well as asking it to help you understand questions and concepts in Python. 
 
 ## Credit
 All the code snippets come from David Joyner's 'Introduction to Computing' textbook (it's free online). I've added my own comments and organised it in a way that makes sense to me. If you spot any mistakes in my notes, would love you to open a PR.
+
 For the extra practice exam questions, I provide my own solutions since these are ungraded and don't have official answers. While these might not be the optimal solutions, I hope they can inspire those who are stuck
-
-As a learner, I really appreciate any corrections and advice that could help me improve this repo, whether it's the code, folder structure, or any other aspect.
-
 ---
-*Good luck to your studies! 😊*
+*Good luck to your studies!*
